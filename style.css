@@ -1,6 +1,6 @@
-<div {
+div {
 	border: 1px;
-	border-color: black;
+	border-color: #292929;
 	border-style: solid;
 }
 
@@ -17,10 +17,11 @@
 	padding: 150px 10px 150px 10px;
 }
 .footer {
-	background-color:#efe9e6;
+	background-color: linear-gradient(to bottom right, #e3c2f6, #b078ff)
 	
 }
 .footer p {
 	color:#ffffff;
 	text-align: center;
+	padding: 20px;
 	}
