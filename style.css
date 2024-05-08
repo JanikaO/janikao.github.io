@@ -21,10 +21,16 @@ div {
 	text-align: center;
 	color: #292929
 }
-.content p {
+.content {
+	width: 90%;
+	margin: auto;
 	font-size: 20px;
 	text-align: center;
 	color: #292929
+}
+.content img {
+	width: 100%;
+	padding: 20px 0px 20px 0px;
 }
 .footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff)
