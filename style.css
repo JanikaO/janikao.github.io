@@ -14,7 +14,17 @@ div {
 	font-size: 60px;
 	text-align: center;
 	color: white;
-	padding: 100px 10px 100px 10px;
+	padding: 80px 10px 80px 10px;
+}
+.content h2 {
+	font-size: 40px;
+	text-align: center;
+	color: #292929
+}
+.content p {
+	font-size: 20px;
+	text-align: center;
+	color: #292929
 }
 .footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff)
