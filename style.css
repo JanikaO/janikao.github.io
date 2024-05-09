@@ -62,6 +62,8 @@ section {
 	font-size: 18px;
 	color: #292929
 	padding: 80px 0px 80px 0px
+	background-color: #efe9e6;
+	border-radius: 25px;
 }
 .lead {
 	font-size: 30px;
