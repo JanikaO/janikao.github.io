@@ -4,6 +4,13 @@ div {
 	border-style: solid;
 }
 
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&display=swap')
+
+html, body {
+	margin: 0;
+	padding: 0;
+	font-family: 'Montserrat', sans-serif;
+}
 .header {
 	background-image: linear-gradient(to bottom right, #b078ff, #e3c2f6);
 	background-position: center;
