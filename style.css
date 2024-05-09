@@ -27,9 +27,10 @@ div {
 	font-size: 30px;
 }
 .image {
-	width: 75%;
-	padding: 30px
-	align: center;
+	display: block;
+ 	margin-left: auto;
+  	margin-right: auto;
+  	width: 40%;
 }
 .footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff)
