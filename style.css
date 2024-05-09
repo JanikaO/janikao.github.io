@@ -38,6 +38,7 @@ section img {
   	margin-left: auto;
   	margin-right: auto;
   	width: 40%;
+	padding: 30px;
 }
 
 }
@@ -48,7 +49,7 @@ footer p {
 	color: #ffffff;
 	text-align: center;
 	padding: 30px;
-	}
+}
 
 @media only screen and (max-width: 700px) 
 section {
