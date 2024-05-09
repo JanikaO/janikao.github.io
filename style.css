@@ -16,16 +16,17 @@ div {
 	color: white;
 	padding: 80px 10px 80px 10px;
 }
-.content lead {
-	font-size: 30px;
-	width: 75%;
-	margin: auto;
-	color: #292929
-}
+
 .content {
 	width: 75%;
 	margin: auto;
 	font-size: 20px;
+	color: #292929
+}
+.lead {
+	font-size: 30px;
+	width: 75%;
+	margin: auto;
 	color: #292929
 }
 .content img {
@@ -41,8 +42,13 @@ div {
 	padding: 30px;
 	}
 
-@media only screen and (max-width: 1025px) 
+@media only screen and (max-width: 700px) 
 .content {
 	width: 75%;
+	}
+
+@media only screen and (max-width: 1025px) 
+.content {
+	width: 55%;
 	}
 }
