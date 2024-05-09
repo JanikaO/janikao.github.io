@@ -16,16 +16,15 @@ div {
 	color: white;
 	padding: 80px 10px 80px 10px;
 }
-.content h2 {
+.content lead {
 	font-size: 30px;
-	text-align: center;
+	margin: auto;
 	color: #292929
 }
 .content {
 	width: 90%;
 	margin: auto;
 	font-size: 20px;
-	text-align: center;
 	color: #292929
 }
 .content img {
@@ -34,7 +33,6 @@ div {
 }
 .footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff)
-	
 }
 .footer p {
 	color: #ffffff;
