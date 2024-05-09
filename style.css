@@ -26,9 +26,10 @@ div {
 .lead {
 	font-size: 30px;
 }
-.content img {
+.image {
 	width: 75%;
 	padding: 30px
+	align: center;
 }
 .footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff)
