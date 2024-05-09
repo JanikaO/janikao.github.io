@@ -56,10 +56,11 @@ header h1 {
 }
 
 section {
-	width: 60%;
+	width: 75%;
 	margin: auto;
 	font-size: 18px;
 	color: #292929
+	padding: 30px;
 }
 .lead {
 	font-size: 30px;
