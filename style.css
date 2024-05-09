@@ -18,16 +18,13 @@ div {
 }
 
 .content {
-	width: 75%;
+	width: 90%;
 	margin: auto;
 	font-size: 20px;
 	color: #292929
 }
 .lead {
 	font-size: 30px;
-	width: 75%;
-	margin: auto;
-	color: #292929
 }
 .content img {
 	width: 75%;
