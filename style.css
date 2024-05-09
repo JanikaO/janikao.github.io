@@ -83,6 +83,7 @@ section img {
 
 footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff);
+	margin-top: auto;
 }
 footer p {
 	color: #ffffff;
