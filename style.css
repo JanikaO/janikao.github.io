@@ -51,12 +51,12 @@ footer p {
 	}
 
 @media only screen and (max-width: 700px) 
-.content {
+section {
 	width: 75%;
 	}
 
 @media only screen and (max-width: 1025px) 
-.content {
+section {
 	width: 55%;
 	}
 }
