@@ -32,14 +32,14 @@ li a {
   	text-decoration: none;
 }
 
+li a:hover:not(.active) {
+ 	 background-color: #e3c2f6;
+}
+
 .active {
   background-color: #b078ff;
 }
 
-/* Change the link color to #e3c2f6 on hover */
-li a:hover {
- 	 background-color: #e3c2f6 ;
-}
 
 header {
 	background-image: linear-gradient(to bottom right, #b078ff, #e3c2f6);
