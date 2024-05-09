@@ -33,11 +33,13 @@ html, body {
 .lead {
 	font-size: 30px;
 }
-.image {
+.content img {
 	display: block;
- 	margin-left: auto;
+  	margin-left: auto;
   	margin-right: auto;
   	width: 40%;
+}
+
 }
 .footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff)
