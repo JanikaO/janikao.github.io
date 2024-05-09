@@ -26,15 +26,19 @@ li {
 
 li a {
   	display: block;
-  	color: white;
+  	color: #292929;
   	text-align: center;
   	padding: 14px 16px;
   	text-decoration: none;
 }
 
-/* Change the link color to #111 (black) on hover */
+.active {
+  background-color: #b078ff;
+}
+
+/* Change the link color to #e3c2f6 on hover */
 li a:hover {
- 	 background-color: #111;
+ 	 background-color: #e3c2f6 ;
 }
 
 header {
