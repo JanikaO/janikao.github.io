@@ -60,11 +60,12 @@ section {
 	margin: auto;
 	font-size: 18px;
 	color: #292929
-	padding: 50px 0px 50px 0px;
 }
+
 .lead {
 	font-size: 30px;
 }
+
 section img {
 	display: block;
   	margin-left: auto;
@@ -85,6 +86,7 @@ section img {
 footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff);
 	margin-top: auto;
+	padding: 0;
 }
 footer p {
 	color: #292929;
