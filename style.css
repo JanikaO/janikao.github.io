@@ -61,8 +61,7 @@ section {
 	margin: auto;
 	font-size: 18px;
 	color: #292929
-	padding-top: 50px
-	padding-bottom: 50px
+	padding: 50px 0px 50px 0px;
 }
 .lead {
 	font-size: 30px;
