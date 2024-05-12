@@ -77,6 +77,7 @@ section img {
 .row {
   	display: flex;
 	justify-content: center;
+	align-items: center;
 }
 
 .column {
