@@ -89,6 +89,7 @@ footer {
 	background-image: linear-gradient(to bottom right, #e3c2f6, #b078ff);
 	margin-top: auto;
 	padding: 0;
+	width: 100%;
 }
 footer p {
 	color: #292929;
