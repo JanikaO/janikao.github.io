@@ -92,7 +92,7 @@ footer p {
 	color: #292929;
 	text-align: center;
 	padding: 30px;
-	font-size: 15px
+	font-size: 15px !important;
 }
 
 @media only screen and (min-width: 650px) {
