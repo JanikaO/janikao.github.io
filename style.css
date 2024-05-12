@@ -83,6 +83,8 @@ section img {
 .column {
   	flex: 33.33%;
   	padding: 5px;
+	justify-content: center;
+	align-items: center;
 }
 
 footer {
