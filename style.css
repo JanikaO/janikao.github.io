@@ -76,8 +76,8 @@ section img {
 
 .row {
   	display: flex;
-	margin-bottom: 50px;
-
+	margin-left: auto;
+  	margin-right: auto;
 }
 
 .column {
