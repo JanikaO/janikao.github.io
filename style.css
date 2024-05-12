@@ -75,7 +75,9 @@ section img {
 }
 
 .row {
-  display: flex;
+  	display: flex;
+	margin-bottom: 50px;
+
 }
 
 .column {
